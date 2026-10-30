@@ -4,3 +4,6 @@
 [submodule "deepseek-harness-paper"]
 	path = .submodules/deepseek-harness-paper
 	url = https://github.com/cordiverse/paper.git
+[submodule "openharmony"]
+	path = .submodules/openharmony
+	url = https://gitcode.com/openharmony/manifest.git

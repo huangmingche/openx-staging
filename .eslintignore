@@ -1,0 +1,3 @@
+# Exclude upstream workspaces before Oxlint discovers their own configurations.
+/.submodules/
+/.sources/
